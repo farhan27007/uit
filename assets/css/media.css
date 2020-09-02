@@ -1,0 +1,46 @@
+@media (max-width: 586px) {
+	.navbar-brand img {
+		height: 36px !important;
+	}
+	.content-home {
+		margin-top: 99px;
+	}
+	.title-head-kampus {
+		font-size: 23px;
+		line-height: 1.4;
+	}
+	.content-home p {
+		font-size: 	15.5px;
+		line-height: 1.7;	
+	}
+	.img-logo-footer {
+		height: 110px;
+	}
+	.name-footer {
+		font-size: 16px;
+	}
+	.text-center-xs {
+		text-align: center;
+	}
+	.m-20-xs {
+		margin: 20px 0px;
+	}
+}
+@media(max-width: 413px) {
+	.navbar-brand img {
+		height: 30px !important;
+	}	
+}
+@media(max-width: 359px) {
+	.navbar-brand img {
+		height: 25px !important;
+	}	
+}
+@media (max-width: 767px) {
+	.text-center-xs {
+		text-align: center;
+	}
+	.m-20-xs {
+		margin: 20px 0px;
+	}	
+}
